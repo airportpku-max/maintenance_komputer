@@ -1,6 +1,6 @@
 {
   "name": "CMS",
   "description": "Aplikasi monitoring dan pencatatan maintenance komputer, laptop, dan AIO PC.",
-  "requestFramePermissions": [],
+  "requestFramePermissions": ["camera"],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
